@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "megasorte-app",
+    "slug": "snack-2e4b85ca-9302-4be3-bc90-27ebef886050",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "O MegaSorte é um aplicativo inspirado no jogo da Mega-Sena, onde o usuário pode realizar suas apostas escolhendo de 6 a 20 números dentro do intervalo de 1 a 60. O sistema também oferece a opção de “Surpresinha”, na qual os números são gerados automaticamente, e “Teimosinha”, permitindo repetir a mesma aposta em sorteios consecutivos. Ao final, o aplicativo realiza o sorteio de forma aleatória e apresenta o resultado na tela."
+  }
+}
